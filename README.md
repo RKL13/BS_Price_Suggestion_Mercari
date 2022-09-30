@@ -1,1 +1,1 @@
-# BS_Price_Suggestion_Mercari
+# Build an algorithm that automatically suggests the right product prices. 💸
